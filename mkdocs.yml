@@ -134,8 +134,8 @@ nav:
   - Labs:
     - labs/index.md
     - NotebookLM:
-      - notebooklm/index.md 
+      - labs/notebooklm/index.md 
     - Concept Map:
-      - concept-map/index.md
+      - labs/concept-map/index.md
   
     

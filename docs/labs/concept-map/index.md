@@ -1,4 +1,4 @@
 ---
-icon: material/map
+icon: material/file-tree
 ---
 # Concept Map Lab
