@@ -35,13 +35,13 @@ hide:
     ---
 
 
-    [:octicons-arrow-right-24: Getting Started](getting-started/index.md)
+    [:octicons-arrow-right-24: Getting Started](#)
 
-    [:octicons-arrow-right-24: Exploratory Data Analysis](eda/index.md)
+    [:octicons-arrow-right-24: Exploratory Data Analysis](#)
     
-    [:octicons-arrow-right-24: Introduction to Modeling ](modeling/index.md)
+    [:octicons-arrow-right-24: Introduction to Modeling ](#)
 
-    [:octicons-arrow-right-24: Advanced Data Types](adv-data-types/index.md)
+    [:octicons-arrow-right-24: Advanced Data Types](#)
 
 -   :material-book-check-outline:{ .lg .middle } __Grading & Evaluation__
 

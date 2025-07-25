@@ -6,9 +6,24 @@ hide:
 
 # Schedule
 
-| Module                                 | Date, Topic, & :material-alert: **Project Deliverables** |
-| :------------------------------------- | :------------------------------------------------------- |
-| [Getting Started](../getting-started/index.md)    | 05/15: [Course Overview](course-description.md) & [Introduction to Google Colab](../getting-started/colab/index.md)<br> 05/22: [Introduction to Python](../getting-started/python/index.md)                                                                                                         |
-| [Exploratory Data Analysis](../eda/index.md)      |  05/29: [Data Wrangling with Polars](../eda/data-wrangling/index.md)<br>    :material-alert: **Project Plan**<br> 06/05: [Data Visualization with Altair](../eda/data-visualization/index.md)<br> 06/12: [Data Storytelling](../eda/data-storytelling/index.md)                                                                            |
-| [Introduction to Modeling](../modeling/index.md)  |  06/19: Summer-1 Finals Week Juneteenth - No Classes <br> 06/26: [Introduction to Modeling Concepts & Workflow](../modeling/modeling-concepts-workflow/index.md)<br>    :material-alert: **Data Wrangling & EDA** <br> 07/03: [Robust Modeling Workflow](../modeling/robust-modeling-workflow/index.md)<br> 07/10: [Modeling Without a Target](../modeling/modeling-without-target/index.md) |
-| [Advanced Data Types](../adv-data-types/index.md) |  07/17: [Time Series Data Analysis](../adv-data-types/time-series/index.md)<br>    :material-alert: **Modeling**<br> 07/24: [Text Analysis](../adv-data-types/text-analysis/index.md)<br> 07/31: Finals week - No Classes<br>     :material-alert: **Optional Extra Credit**                                               |
+<div class="grid" markdown>
+
+??? info "**Schedule: BUSERV 1910 - Introduction to Business**"
+
+    | Module                | Date, Topic, &  Graded Deliverables      |
+    | :-------------------- | :----------------------------------------|
+    | Getting Started       | 05/15: Course Overview & Introduction to Concept Map <br> 05/22: Introduction to NotebookLM & Gemini |
+    | Foundations           | 05/29: Understanding Markets <br> 06/05: Leadership & Governance <br> 06/12: Management Ideology <br> 06/12: Organizational Design & Development |
+    | Business Functions    | 06/19: Finance 06/26: Marketing <br> 07/03: Operations <br> 07/10: Technology Management |
+    | Experiential Learning | 07/17: Project Kickoff <br> 07/24: Business & Leadership Profile <br> 07/31: Decision Analysis <br> 07/31: Peer Review and Wrapup  | 
+        
+??? info "**Schedule: BUSERV 1915 - Introduction to Management**"
+
+    | Module                | Date, Topic, &  Graded Deliverables      |
+    | :-------------------- | :----------------------------------------|
+    | Getting Started       | 05/15: Course Overview & Introduction to Concept Map <br> 05/22: Introduction to NotebookLM & Gemini |
+    | Foundations           | 05/29: Understanding Markets <br> 06/05: Leadership & Governance <br> 06/12: Management Ideology <br> 06/12: Organizational Design & Development |
+    | Business Functions    | 06/19: Finance 06/26: Marketing <br> 07/03: Operations <br> 07/10: Technology Management |
+    | Experiential Learning | 07/17: Project Kickoff <br> 07/24: Business & Leadership Profile <br> 07/31: Decision Analysis <br> 07/31: Peer Review and Wrapup  | 
+        
+</div>
