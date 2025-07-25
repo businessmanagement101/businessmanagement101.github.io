@@ -1,47 +1,25 @@
 ---
-icon: material/language-python
+icon: material/account-group-outline
 ---
 
+**Course Description and Learning Objectives**
 
-## **Course Description**
+Business organizations touch our lives in a variety of ways: we use their products and services, we accept them as our employers, we invest our money in them, and we let them shape our communities. Whether you become a doctor, an artist, an engineer, or an entrepreneur, your life will be intertwined with the world of business. Making critical life decisions—choosing a job, making a financial investment, or even understanding the news—can be enhanced by a fundamental understanding of how businesses work. Helping you build this durable intellectual framework is the primary objective of this course.
 
-In today's data-driven business landscape, the ability to programmatically access, manipulate, visualize, and model data is no longer a niche skill but a core competency for effective decision-making. **Data Programming Essentials with Python** is designed specifically for individuals, particularly those in business roles with no prior programming experience, aiming to demystify the world of data science tooling. This course provides a hands-on, practical introduction to the essential concepts and Python libraries needed to turn raw data into actionable insights.
+Our journey this semester is built around a central question: **How do organizations transform ideas, people, and capital into value in a complex and ever-changing world?** We will tackle this question in three parts:
 
-We move beyond just syntax, focusing on building intuition for how modern data science libraries like **Polars** (for high-performance data manipulation), **Altair** (for declarative statistical visualization), and **scikit-learn** (for machine learning) are designed. By understanding the choices behind their APIs and domain models – grounded in practical object-oriented concepts – you'll gain a deeper, more adaptable understanding that transcends rote memorization.
+1.  **The Playing Field:** We begin by exploring the external world in which all businesses operate. We will discuss the role of product and factor markets, the power of governing ideologies like shareholder and stakeholder primacy, and the critical influence of leadership and corporate governance. This sets the stage—the opportunities and constraints that every organization faces.
 
-Starting with Python fundamentals within the accessible Google Colab environment, we'll progress through the core data science workflow: acquiring and exploring data, generating insightful visualizations, building and evaluating predictive models (regression and classification), and uncovering structure through unsupervised techniques (clustering and dimensionality reduction). We will also introduce approaches for handling increasingly common specialized data types like time series and text data. Throughout the course, you will be encouraged to leverage documentation and generative AI tools strategically to accelerate your learning and problem-solving.
+2.  **The Game Plan & The Engine:** Next, we dive into the heart of management by focusing on **Strategy**. We’ll ask how leaders make crucial choices to create a sustainable competitive advantage. Then, with strategy as our guide, we will open up the “black box” of the firm to see how it functions as an **Organizational Engine**. We will investigate the fundamental tension every company faces: how to design an efficient machine for **executing** today's strategy while also cultivating an adaptive organism capable of **innovating** for tomorrow.
 
-The ultimate goal is to equip you with the foundational knowledge and practical confidence to apply these powerful data programming techniques to your own professional challenges and personal projects, enabling you to ask better questions and derive more value from data, irrespective of your starting point.
+3.  **The Functional Levers & Applied Analysis:** Finally, we will examine the essential business functions—**Finance, Marketing, Operations, People & Talent, and Technology Management**—not as isolated silos, but as the interconnected levers managers pull to bring their strategy to life. Throughout the semester, you will apply these concepts in an experiential learning project, acting as an analyst to decode the strategy and performance of a major corporation.
 
+By the end of this course, you should be able to:
 
-## **Learning Objectives**
-
-Upon successful completion of this course, you will be able to:
-
-1.  **Master Core Python Fundamentals for Data Science:**
-    * Write functional Python code utilizing essential data structures (lists, dictionaries), control flow (loops, conditionals), and functions.
-    * Set up and manage a data science programming environment using Google Colab notebooks.
-    * Explain fundamental object-oriented concepts (objects, classes, methods, attributes) practically as they relate to using and understanding Python library APIs.
-
-2.  **Perform Effective Exploratory Data Analysis (EDA):**
-    * Manipulate and transform data efficiently using the Polars DataFrame library and its expression API.
-    * Create informative and interpretable data visualizations using the Altair declarative charting library.
-    * Identify patterns, trends, anomalies, and relationships within datasets to guide further analysis.
-
-3.  **Implement Foundational Machine Learning Workflows:**
-    * Understand and apply the standard machine learning workflow using scikit-learn, including data preprocessing and model evaluation.
-    * Build, train, and interpret results from common supervised learning models for regression and classification tasks.
-    * Apply basic unsupervised learning techniques, including clustering (K-Means) and dimensionality reduction (PCA), to uncover structure in data.
-
-4.  **Gain Exposure to Specialized Data Types:**
-    * Describe the unique characteristics and analytical approaches relevant to time series data and perform basic time series analysis.
-    * Understand common techniques for representing and analyzing textual data at an introductory level.
-
-5.  **Develop Practical Data Problem-Solving Skills:**
-    * Interpret the API design choices of major data science libraries (Polars, Altair, scikit-learn) to use them more effectively.
-    * Leverage library documentation, online resources, and generative AI tools as aids for independent learning and troubleshooting.
-    * Translate loosely defined problems into concrete data analysis steps and apply appropriate programming techniques within a course project.
-    * Communicate findings from data analysis clearly through visualizations and summaries.
+* Enumerate, describe, and analyze major business function decisions.
+* Analyze and explain the strategic management decisions of a company and their potential outcomes.
+* Understand, evaluate, and apply foundational concepts that underlie contemporary management ideology.
+* Pursue more specialized courses on business and management.
 
 
 
