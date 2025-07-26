@@ -131,11 +131,13 @@ nav:
     - Project Guide: syllabus/project-guide.md
     - Schedule: syllabus/schedule.md
     - Course Policies: syllabus/course-policies.md
-  - Labs:
-    - labs/index.md
-    - NotebookLM:
-      - labs/notebooklm/index.md 
+  - Getting Started:
+    - getting-started/index.md
     - Concept Map:
-      - labs/concept-map/index.md
+      - getting-started/concept-map/index.md
+    - NotebookLM:
+      - getting-started/notebooklm/index.md 
+    - Gemini:
+      - getting-started/gemini/index.md 
   
     
