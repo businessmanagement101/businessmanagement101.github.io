@@ -1,5 +1,5 @@
 ---
-icon: material/account-group-outline
+icon: material/text
 ---
 
 **Course Description and Learning Objectives**

@@ -34,10 +34,12 @@ The grading breakdown is as follows:
 **Overall Goal:** To reward consistent and active engagement with the course's hands-on learning materials throughout the semester.
 
 **Weekly Grading Method:**
+
 * For each session where practice work (Colab/Jupyter notebook based on provided scaffolding material) is assigned, your submission will be graded on a **Complete / Incomplete** basis.
 * Grading focuses on **evidence of effort and engagement**, not perfect correctness.
 
 **Final Score Calculation:**
+
 * Your final score out of 15 points for this component will be determined by the proportion of weekly submissions marked as 'Complete'.
 * **Formula:** `Score = (Number of 'Complete' Submissions / Total Number of Required Submissions) * 15`
     * *(Example: If there are 12 sessions with required submissions and a student receives 'Complete' on 10 of them, their score is (10 / 12) * 15 = 12.5 points)*
