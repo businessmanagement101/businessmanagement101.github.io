@@ -6,182 +6,146 @@ hide:
 
 # **Course Grading**
 
-Your performance in this course will be evaluated based on your active engagement with the learning materials and a comprehensive semester-long project, contributing to a total of **85 base points**. An optional extra credit component offers the opportunity to earn an additional **15 points**, making a maximum achievable score of **100 points**.
+Your performance in this course will be evaluated based on your active engagement with the learning materials and a comprehensive semester-long project, contributing to a total of **100 total grade points**. 
 
 ## Grade Components
 The grading breakdown is as follows:
 
-* **Active Learning Demonstration:** 15 Points
-* **Semester Long Project:** 70 Points Total (distributed across components below)
-    * Component 1: Project Plan - 10 Points
-    * Component 2: Data Wrangling & EDA - 30 Points
-    * Component 3: Modeling - 30 Points
-* **Optional Extra Credit (Advanced Data Types):** 15 Points
-
----
-## Active Learning
-
-**1. Active Learning Demonstration (15 Points)**
-
-* **Objective:** To demonstrate consistent engagement with the course's learning materials throughout the semester.
-* **Requirement:** You are expected to actively work through the scaffolding materials (provided as Colab/Jupyter notebooks) for each session. Submit your completed practice notebooks, showing your work and exploration of the concepts covered.
-* **Deliverable:** Submitted Colab/Jupyter notebooks containing your practice work for course sessions.
+* **[Weekly Active Learning Assignments](#active-learning-video-assignments):** 25 Points
+* **[Concept Map & Analytical Narrative](#concept-map-analytical-narrative):** 35 points
+* **[Company Analysis](#company-analysis):** 40 Points
 
 ---
 
-**Grading Rubric: Active Learning Demonstration (15 Points Total)**
+## **Active Learning: Video Assignments**
 
-**Overall Goal:** To reward consistent and active engagement with the course's hands-on learning materials throughout the semester.
+### **The 'Why': Connecting Concepts to Conversations**
 
-**Weekly Grading Method:**
+The theories and frameworks we discuss in class can sometimes feel abstract. The purpose of these weekly video assignments is to bridge the gap between theory and practice. By analyzing discussions from leading academics, executives, and analysts, you will see how the core concepts of business and management come to life in real-world conversations.
 
-* For each session where practice work (Colab/Jupyter notebook based on provided scaffolding material) is assigned, your submission will be graded on a **Complete / Incomplete** basis.
-* Grading focuses on **evidence of effort and engagement**, not perfect correctness.
+The goal of these short assignments is to help you:
 
-**Final Score Calculation:**
+* **Develop your analytical eye** to spot business concepts "in the wild."
+* **Deepen your understanding** of the course material by applying it to current events and leadership perspectives.
+* **Build a mental library** of real-world examples that you can use in class discussions and for your final company analysis project.
+* **Practice communicating** complex ideas clearly and concisely.
 
-* Your final score out of 15 points for this component will be determined by the proportion of weekly submissions marked as 'Complete'.
-* **Formula:** `Score = (Number of 'Complete' Submissions / Total Number of Required Submissions) * 15`
-    * *(Example: If there are 12 sessions with required submissions and a student receives 'Complete' on 10 of them, their score is (10 / 12) * 15 = 12.5 points)*
+### **The Task: Your Step-by-Step Guide**
 
-**Criteria for Weekly Submissions:**
+For each assignment, you will follow a simple three-step process:
 
-**✅ Complete:**
-A submission will be marked as 'Complete' if it meets the following criteria:
+1.  **Watch the Assigned Video:** The video for this week is available at: **[Link to Assigned Video]**. Watch it actively. You may want to take notes on key arguments, stories, or data points that stand out to you.
 
-* **Timely Submission:** The notebook is submitted by the specified deadline (or within any permitted grace period).
-* **Evidence of Engagement:** The notebook clearly shows that the student has actively worked through the provided material. This includes:
-    * Most code cells have been executed (outputs are visible).
-    * Exercises or sections requiring student input show a genuine attempt (code written, questions answered, or analysis performed, as applicable).
-    * The work directly relates to the specific session's scaffolding notebook and objectives.
-* **Good-Faith Effort:** The submission demonstrates a reasonable effort to engage with the concepts and tools presented in the notebook. It's understood that solutions may not be perfect, and minor errors or incomplete sections (if the student shows they attempted them) are acceptable for a 'Complete' mark.
+2.  **Identify a Connection:** As you watch, listen for echoes of the topics we've discussed in class. Review your personal concept maps or the course vocabulary list. Select **one core concept** from our course (e.g., "Competitive Advantage," "Person-Job Fit," "Agency Theory," etc.) that is clearly illustrated, debated, or challenged in the video.
 
-**❌ Incomplete:**
-A submission will be marked as 'Incomplete' if it meets one or more of the following criteria:
+3.  **Write a Brief Commentary:** Your task is to explain the connection you found. This is not a summary of the entire video. Instead, it is a focused analysis of how a specific moment in the video relates to a specific concept from our course.
 
-* **Not Submitted:** No notebook is submitted for the session.
-* **Minimal Effort / Blank:** The submitted notebook is essentially unchanged from the provided template, or only a negligible amount of interaction is evident (e.g., only the first one or two cells executed, no attempts at exercises).
-* **Lack of Engagement:** The submission clearly indicates that a good-faith effort was not made to work through the material or complete the assigned tasks.
-* **Irrelevant Content:** The submitted notebook contains work that is unrelated to the specific session's assignment.
+### **Submission Guidelines & Format**
 
+To ensure these assignments are focused and manageable, please adhere to the following structure and length.
 
----
-## Course Project
+* **Submission Format:** A single text entry or document upload.
+* **Length:** **250-350 words.** This is a firm range. The goal is focused, high-quality analysis, not a long essay.
+* **Structure:** Please structure your submission with the following three headings:
 
-**2. Semester Long Project (70 Points Total)**
+    1.  **Course Concept:** Name the single concept you have chosen to focus on.
+    2.  **Video & Timestamp:** Name the video and provide the specific timestamp (e.g., from 12:15 to 13:00) of the moment you are analyzing.
+    3.  **Commentary:** Write your analysis. In this section, you should:
+        * Briefly define the course concept in your own words.
+        * Describe what is happening at your chosen moment in the video (e.g., "The CEO argues that...").
+        * Clearly explain the connection. How does this moment serve as a practical example or a counterpoint to the academic concept?
 
-* **Objective:** To apply the data science concepts and tools learned in the course to a real-world problem. This project requires you to demonstrate proficiency in data wrangling, exploratory data analysis (EDA), and machine learning modeling.
-* **Core Tools:** Python Polars (for data wrangling), Altair (for EDA and visualization), and scikit-learn (for modeling).
-* **Deliverables:** The project is broken down into three graded components, submitted sequentially throughout the semester. All submissions must be via Colab Notebooks and include clear markdown annotations explaining your analytical goals, workflow steps, and interpretation of results.
+### **Evaluation Criteria**
 
-### Project Plan
+These assignments will be graded on a simple scale based on the quality of your analysis:
 
-* **Component 1: Project Plan (10 Points)**
-    * **Goal:** Define the scope, data, objectives, and plan for your project.
-    * **Tasks:**
-        1.  **Data Identification:** Select the dataset you will use. Provide verifiable links or clear sourcing information for instructor review.
-        2.  **Data Dictionary:** Create a detailed data dictionary in markdown format, describing the variables, data types, and meanings within your chosen dataset.
-        3.  **Analytical Objectives & Techniques:** Clearly state the business or research questions you aim to answer. Provide a high-level description of the primary analytical technique you plan to employ (e.g., prediction, classification, clustering, anomaly detection).
-        4.  **Execution Plan:** Outline the major phases of your project and propose a timeline for completion.
-
-
-**Grading Rubric: Project Component 1 - Project Plan (10 Points Total)**
-
-**Overall Goal:** To assess the clarity, feasibility, and completeness of your initial project proposal, focusing on the chosen data and the planned analysis. 
-
-*Note: While explicit points for overall presentation are removed, clear documentation and organization within the Colab notebook remain crucial for demonstrating your work effectively.*
-
-**Submission Format:** Google Colab Notebook (`.ipynb`) with clear Markdown annotations.
-
-**Criteria for Evaluation:**
-
-| Criterion                                                      | **Excellent** | **Good** | **Fair** | **Poor / Missing** |
-| :------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Data Identification, Accessibility & Dictionary** (5 pts) | Dataset clearly identified, highly relevant, readily accessible via verifiable link. Comprehensive, clear, well-formatted Markdown dictionary provided for key variables (name, type, description).                                                                                     | Dataset identified & generally relevant; minor issues with accessibility or link **OR** dictionary covers most key variables but has minor omissions/formatting issues.                                                                                                                               | Dataset relevance is questionable **OR** link broken/accessibility issues **OR** dictionary is significantly incomplete, inaccurate, or poorly formatted.                                                                                                                              | Dataset poorly identified, irrelevant, inaccessible, or missing **OR** dictionary is missing or completely inadequate.                                                                                                                                                         |
-| **2. Analytical Objectives, Technique & Plan** (5 pts)         | Objectives are specific, relevant (SMART-like), strongly linked to data. Appropriate high-level technique clearly stated. Execution plan has clear, logical phases and realistic timeline/milestones showing forethought.                                                                | Objectives stated adequately but could be clearer/more specific. Link to data is present. Technique appropriate. Plan identifies major phases but lacks some detail or realism in timeline.                                                                                                             | Objectives are vague or weakly linked to data. Technique unclear or questionable. Plan/phases are unclear, illogical, or lack realism.                                                                                                                                                          | Objectives missing, nonsensical, or disconnected from data. Technique missing/inappropriate. Plan is missing or completely inadequate.                                                                                                                                     |
+| Criteria | Proficient  | Developing | Needs Improvement |
+| :--- | :--- | :--- | :--- |
+| **Concept Identification** | A relevant course concept is clearly and accurately identified. | A relevant concept is identified, but its definition may be slightly unclear. | The concept is irrelevant, or inaccurately described. |
+| **Analysis & Connection** | The connection between the concept and the video is insightful, well-explained, and strongly supported. | A connection is made, but the analysis is superficial or could be explained more clearly. | The connection is weak, illogical, or the commentary is just a summary. |
+| **Clarity & Conciseness** | The writing is clear, professional, and adheres to the length requirement. | The writing is generally clear but may have minor errors or slightly exceed the word count. | The writing is unclear, unprofessional, or disregards the length requirement. |
 
 ---
+### **Example Submission**
 
+Here is a sample submission to guide you. (This is a hypothetical example based on our course content).
 
-### Data Wrangling & EDA
+**Course Concept:**
+Stakeholder Primacy
 
-* **Component 2: Data Wrangling and Exploratory Data Analysis (EDA) (30 Points)**
-    * **Goal:** Ingest, clean, transform, and explore your data to prepare it for modeling and gain initial insights.
-    * **Tasks:**
-        1.  **Data Ingestion & Transformation (using Polars):** Load the raw data identified in Component 1. Perform necessary data wrangling tasks, demonstrating proficiency in handling data type conversions, managing missing values, creating new features, filtering, aggregating, and reshaping data.
-        2.  **Exploratory Data Analysis (using Altair):** Conduct thorough EDA using visualizations created with Altair. Your exploration should be guided by your analytical objectives (from Component 1) and should uncover patterns, trends, relationships, and potential issues in the data. Demonstrate data storytelling by explaining what your visualizations reveal.
+**Video & Timestamp:**
+"CEO of Patagonia on Corporate Responsibility," at 5:22
 
+**Commentary:**
+Stakeholder primacy is the management ideology that a corporation should be run for the benefit of all its stakeholders—including employees, customers, suppliers, and the community—not just shareholders. This contrasts with shareholder primacy, which focuses exclusively on maximizing shareholder wealth.
 
-**Grading Rubric: Project Component 2 - Data Wrangling & EDA (30 Points Total)**
+At the 5:22 mark of the interview, the CEO of Patagonia discusses the company's decision to invest heavily in a new, more expensive supply chain that guarantees fair wages for workers and uses environmentally sustainable materials. He states, "Our profitability is important, but it's only one measure of our health. If our supply chain is harming the planet or treating people unfairly, then we aren't a successful company, even if the stock price is high."
 
-**Overall Goal:** To evaluate your ability to effectively ingest, clean, transform, explore, and derive meaningful insights from your chosen dataset using Polars and Altair. 
+This statement is a perfect real-world application of stakeholder primacy. The CEO is explicitly articulating a trade-off between maximizing short-term profit (by using a cheaper supply chain) and fulfilling the company's obligations to its other stakeholders (employees, the community, and the environment). His definition of a "successful company" is not limited to financial returns, but encompasses a broader set of ethical and social responsibilities, which is the core tenet of stakeholder theory.
 
-*Note: While explicit points for overall presentation are removed, clear documentation and organization within the Colab notebook remain crucial for demonstrating your work effectively across all criteria.*
+## **Concept Map & Analytical Narrative**
 
-**Submission Format:** Google Colab Notebook (`.ipynb`) with clear Markdown annotations detailing workflow, rationale, and interpretation.
+### **Assignment Description**
 
-**Criteria for Evaluation:**
+**The Purpose:** The goal of this assignment is to create a living document that visualizes your understanding of business and management. It is composed of two parts that work together: a **Concept Map** (the visual structure of your ideas) and an **Analytical Narrative** (the written explanation of your insights). This assignment is not a one-time task; it is a project you will build incrementally throughout the semester, culminating in a powerful tool for synthesizing course material and preparing for your final company analysis.
 
-| Criterion                                                     | **Excellent** | **Good** | **Fair** | **Poor / Missing** |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Data Ingestion, Wrangling & Cleaning (Polars)** (10 pts) | Data correctly ingested with thorough initial checks. Demonstrates strong Polars proficiency. Comprehensively & effectively addresses data quality issues (types, missing, outliers) using logical transformations (joins, groupbys, feature eng.). Clean dataset ready for EDA/modeling. | Data correctly ingested with basic checks. Adequately performs necessary cleaning/transformations using Polars, handling common issues correctly. Polars usage is functional. Dataset is reasonably prepared.                                                                                 | Data ingestion may have minor errors or checks are minimal. Basic cleaning/transformations attempted, but significant issues may remain or handled suboptimally/inefficiently. Polars usage shows minor inaccuracies. Dataset may not be fully prepared.                                                   | Unable to load data correctly OR minimal/ineffective cleaning/transformation. Major data quality issues ignored or handled incorrectly. Little evidence of Polars proficiency. Dataset not ready for analysis.                                                               |
-| **2. Exploratory Data Analysis (Altair)** (10 pts)            | Creates a wide variety of relevant, well-chosen, clear, and correctly labeled Altair visualizations (uni/bivariate, maybe multivariate) appropriate for data types & goals. Effective use of Altair features. Thorough exploration demonstrated.                                                | Creates relevant Altair charts covering key data aspects. Generally appropriate chart types & labeling. Covers essential exploration adequately.                                                                                                                                                  | Limited variety or relevance of visualizations. Chart types sometimes inappropriate, lack clarity/labels. Basic exploration only. Some reliance on non-Altair plots.                                                                                                                              | Very few, irrelevant, or poorly executed visualizations. Missing charts for key aspects. Little evidence of Altair usage. Exploration is insufficient.                                                                                                                     |
-| **3. Insight Generation & Data Storytelling** (10 pts)        | Interprets EDA findings deeply and critically. Clearly and explicitly links insights back to project objectives, strongly supporting interpretations with specific chart references. Tells a compelling and coherent story with the data, effectively motivating the modeling phase.         | Provides valid interpretation for most visualizations. Makes clear connections to project objectives. A logical data narrative is present.                                                                                                                                                      | Interpretation is minimal, superficial, or occasionally incorrect. Weak or unclear link between EDA & objectives. Narrative is fragmented or difficult to follow.                                                                                                                            | No meaningful interpretation provided. No connection to objectives. Just code/charts without explanation.                                                                                                                                                                 |
+**The Anchor: Your Focus Question:** The heart of this assignment is a single, powerful **focus question** that you will develop and refine. This question will guide your analysis and give your map a purpose. It should be an analytical question, not a descriptive one.
+
+* *Descriptive Question (Avoid):* "What is Apple's marketing strategy?"
+* *Analytical Question (Pursue):* "How does Apple's culture of secrecy and product design excellence create a sustainable competitive advantage?"
+
+**The Final Deliverables:**
+
+1.  **The Concept Map:** A visual diagram that connects your chosen company to a wide range of relevant course concepts. The connections must be labeled to explain the relationships.
+2.  **The Analytical Narrative (1,000 - 1,250 words):** An essay that explains the argument you have built in your concept map. This narrative should:
+    * State your focus question and provide a clear, concise answer (your thesis).
+    * Use the structure of your map to guide the reader through your analysis.
+    * **Prioritize analysis:** Do not waste space defining concepts. Instead, focus on explaining the *connections* between them, evaluating trade-offs, and synthesizing information to support your thesis. Explain *why* and *how* a particular action by the company illustrates a course concept and helps answer your focus question.
+
+---
+### **Grading Rubric: Concept Map & Narrative**
+
+| Criteria | Excellent | Good | Developing | Needs Improvement |
+| :--- | :--- | :--- | :--- | :--- |
+| **Focus Question & Thesis** (20%) | The focus question is highly analytical and insightful. The narrative presents a clear, compelling, and well-supported thesis that directly answers the question. | The focus question is analytical. The narrative presents a clear thesis, but it may be somewhat obvious or less strongly supported. | The question is more descriptive than analytical. The thesis is unclear, or the narrative fails to consistently support it. | The question is missing or purely descriptive. No clear thesis is presented. |
+| **Breadth & Depth of Concepts** (30%) | The map and narrative integrate a wide breadth of concepts from across the course. The application of concepts is deep, nuanced, and demonstrates a sophisticated understanding of their relationships. | The map and narrative use a good range of concepts, but may over-rely on one module. Application is correct but may lack nuance. | Only a limited number of concepts are used. Connections are superficial or simply stated without explanation. | Few or no course concepts are used, or they are applied incorrectly. |
+| **Analysis vs. Description** (40%) | The narrative is overwhelmingly analytical. It masterfully evaluates, synthesizes, and critiques, using facts only as evidence for a larger argument. The focus is clearly on the "why" and "so what." | The narrative contains a good balance of analysis and description, but could push further into evaluation and synthesis. | The narrative is primarily descriptive, summarizing facts about the company or defining concepts rather than analyzing their connections. | The narrative is purely descriptive or a simple summary of facts. |
+| **Clarity & Structure** (10%) | The concept map is clear, logical, and easy to follow. The narrative is exceptionally well-written, professionally formatted, and logically structured. | The map is mostly clear. The narrative is well-written with a logical structure, though it may have minor organizational or clarity issues. | The map is cluttered or difficult to understand. The narrative lacks a clear structure or contains frequent errors. | The map is illegible. The narrative is disorganized and poorly written. |
 
 ---
 
-### Modeling
+## **Company Analysis**
 
-* **Component 3: Modeling (30 Points)**
-    * **Goal:** Apply appropriate machine learning models to address your analytical objectives.
-    * **Tasks:**
-        1.  **Model Selection & Implementation (using scikit-learn):** Based on your objectives and EDA findings, select and implement relevant supervised (e.g., regression, classification) and/or unsupervised (e.g., clustering) learning algorithms using scikit-learn.
-        2.  **Model Evaluation & Interpretation:** Evaluate the performance of your models using appropriate metrics. Interpret the results in the context of your original objectives. Discuss the limitations and implications of your findings.
+### **Assignment Description**
 
+**The Purpose:** This capstone assignment is your opportunity to synthesize everything you have learned in the course. You will conduct a comprehensive analysis of your chosen company, moving beyond simple description to develop a persuasive, evidence-based argument about the firm's core strategic drivers.
 
-**Grading Rubric: Project Component 3 - Modeling (30 Points Total)**
+**The Anchor: Management Ideology as the Lens for Analysis**
+The central task of this paper is to analyze your company through the lens of **management ideology**. Your paper must advance a clear thesis arguing whether your company operates primarily from a **shareholder primacy** or a **stakeholder primacy** perspective. Every piece of evidence and analysis in your paper should be used to support this central thesis.
 
-**Overall Goal:** To evaluate your ability to select, implement, evaluate, and interpret appropriate machine learning models using scikit-learn to address your project objectives defined in Component 1 and informed by Component 2. 
+**The Task: Analysis, Not a Report**
+Your goal is to write an analytical essay, not a book report. You should assume your reader is familiar with the basic facts of your company and the definitions of course concepts. Your grade will depend on the quality of your analysis—how well you use evidence from the company's actions to support your argument about its ideology.
 
-*Note: Clear documentation and organization within the Colab notebook remain crucial for demonstrating your work effectively.*
+**Recommended Structure:**
 
-**Submission Format:** Google Colab Notebook (`.ipynb`) with clear Markdown annotations explaining the rationale, process, and findings.
-
-**Criteria for Evaluation:**
-
-| Criterion                                            | **Excellent** | **Good** | **Fair** | **Poor / Missing** |
-| :--------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Model Selection & Implementation (sklearn)** (10 pts) | Choice of algorithm(s) is highly relevant to objectives & data type. Strong justification provided. Correct & effective use of scikit-learn (e.g., pipelines, `fit`/`predict`/`transform`, train/test split). Appropriate feature handling (scaling, encoding) implemented logically. | Algorithm choice is relevant to objectives/data. Implementation uses scikit-learn correctly for basic steps. Necessary feature handling and train/test split performed adequately.                                                                                             | Algorithm choice may be suboptimal or justification weak. Minor errors in scikit-learn usage or pipeline setup. Feature handling or data splitting might be incomplete or slightly incorrect.                                                                                          | Algorithm choice is inappropriate or missing. Major errors in scikit-learn implementation or logic. Fundamental steps like train/test split or essential feature handling missing or incorrect.                                                                               |
-| **2. Model Evaluation** (10 pts)                    | Selects highly appropriate evaluation metric(s) with clear justification relevant to project objectives. Correctly calculates/reports metrics on the test set. Compares models effectively (if applicable). Demonstrates clear understanding & checks for overfitting/underfitting.     | Selects appropriate metric(s) for the task. Correctly calculates/reports metrics on test set. Basic comparison performed if needed. Addresses overfitting/underfitting at a basic level.                                                                                         | Metric choice may be less appropriate or lack clear justification. Minor errors in calculation or reporting. Evaluation might be incomplete (e.g., only on training data, weak comparison). Overfitting/underfitting poorly addressed or identified.                                | Inappropriate or missing metrics. Incorrect calculation/reporting. No comparison or testing on appropriate data split. No consideration or check for overfitting/underfitting.                                                                                                |
-| **3. Interpretation, Conclusion & Limitations** (10 pts) | Provides deep, insightful interpretation of model results, explicitly linking them back to project objectives. Draws clear, well-supported conclusions answering the original question(s). Thoroughly discusses model limitations, assumptions, potential biases, and implications.     | Provides correct interpretation of results and relates them back to objectives. Draws reasonable conclusions based on the evaluation. Mentions some relevant limitations of the model or analysis.                                                                               | Interpretation is superficial, partially incorrect, or weakly linked to objectives. Conclusions are unclear or weakly supported by the evaluation results. Discussion of limitations is minimal, generic, or missing key aspects.                                                     | Interpretation is missing, incorrect, or irrelevant. No connection made to objectives. Conclusions are missing or unsupported by evidence. No discussion of limitations or implications.                                                                                          |
-
+1.  **Introduction:** State your thesis clearly. Which ideology drives the company, and what are the key reasons you believe this to be true?
+2.  **Strategy & Governance:** Briefly describe the company's stated strategy and governance structure. How do these initial elements align with your thesis?
+3.  **Evidence from Functional Levers:** This is the core of your paper. Dedicate sections to analyzing the company's actions in its key business functions. For each function, provide specific evidence and explain how it supports your thesis about the company's ideology.
+    * **Finance:** How do decisions about stock buybacks, dividends, capital investments, and executive compensation reveal the company's priorities?
+    * **Marketing & Operations:** How do choices about product quality, supply chain ethics, pricing, and customer relationships support your argument?
+    * **People & Talent:** How do HR policies regarding compensation, layoffs, training, and diversity and inclusion serve as evidence for your thesis?
+4.  **Conclusion:** Summarize your argument. Briefly discuss the potential long-term implications of the company's chosen ideology.
 
 ---
-### Extra Credit
+### **Grading Rubric: Company Analysis**
 
-**3. Optional Extra Credit Component: Advanced Data Types (15 Points)**
+| Criteria | Excellent (A) | Good (B) | Developing (C) | Needs Improvement (D/F) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Central Thesis (Ideology Argument)** (30%) | The paper presents a clear, debatable, and insightful thesis about the company's ideology. This thesis is consistently and persuasively supported throughout the entire paper. | The paper presents a clear thesis, but it may be somewhat obvious. The argument is consistent, but some evidence may be less strongly connected. | The thesis is vague, inconsistent, or not clearly stated. The paper loses focus on the central argument. | No clear thesis is presented. The paper reads like a disconnected report. |
+| **Quality of Evidence & Breadth** (30%) | The paper uses specific, compelling evidence from a wide range of business functions (Finance, Marketing, People, etc.) to build its case. The breadth of evidence creates a holistic and convincing portrait. | The paper uses good evidence from several functions, but may over-rely on one or two areas. The evidence is relevant but may not be as compelling. | Evidence is generic, anecdotal, or drawn from only one functional area. The argument lacks breadth. | The paper lacks specific evidence or uses it incorrectly. |
+| **Analysis & Synthesis** (30%) | The analysis is sophisticated and insightful. The paper excels at connecting the dots, explaining *why* specific actions are evidence of a deeper ideology. It synthesizes information to create a powerful, unified argument. | The analysis is solid and logical. The paper explains the connections between evidence and the thesis, but could explore the "so what" more deeply. | The paper tends to describe actions rather than analyze them. The connection between the evidence and the thesis is often stated rather than explained. | The paper is purely descriptive, presenting facts without analysis or connection to a central argument. |
+| **Structure & Clarity** (10%) | The paper is exceptionally well-organized, with a logical flow that is easy to follow. The writing is clear, concise, and professional. | The paper is well-organized and clearly written, with only minor structural or grammatical issues. | The paper's structure is confusing, or the argument is difficult to follow. Contains frequent writing errors. | The paper is disorganized, poorly written, and lacks professional polish. |
 
-* **Objective:** To demonstrate proficiency in analyzing specialized data types beyond the core project requirements.
-* **Requirement:** Students choosing this option must select *either* time-series analysis *or* text analysis. This requires selecting a dataset suitable for the chosen advanced technique during the Project Plan phase (Component 1).
-* **Tasks:** Apply relevant libraries and techniques (e.g., libraries like `statsmodels`, `prophet` for time-series; `nltk`, `spaCy`, or `scikit-learn`'s text features for text analysis) to your chosen dataset. Perform analysis appropriate to the data type and your project goals.
-* **Deliverable:** Integrated analysis within your final project submission (Colab Notebook), clearly marked as the extra credit component, with relevant markdown explanations.
-
-
----
-
-**Grading Rubric: Optional Extra Credit - Advanced Data Types (15 Points Total)**
-
-**Overall Goal:** To evaluate your ability to apply techniques appropriate for either time-series or text data, interpret the results meaningfully, and integrate them with your main project analysis. Success requires choosing an appropriate dataset early in the project.
-
-**Submission Format:** Clearly marked section within the final project Colab Notebook submission, including Markdown annotations explaining the process, rationale, and findings specific to this extra credit work.
-
-**Criteria for Evaluation:**
-
-| Criterion                                       | **Excellent** | **Good** | **Fair** | **Poor / Missing** |
-| :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Data Prep & Technique Selection** (5 pts) | Clear choice of relevant advanced track (time-series/text). Data appropriately preprocessed using techniques specific to the chosen type (e.g., time indexing/resampling; tokenization/vectorization). Appropriate libraries used effectively. Setup is clear within the notebook.                                                        | Choice of track is clear & appropriate. Basic necessary preprocessing performed correctly using relevant libraries. Setup is adequate.                                                                                                                                                    | Choice of track appropriate, but preprocessing is incomplete, contains minor errors, or uses less suitable techniques/libraries. Setup might be unclear.                                                                                                                               | Track choice unclear or inappropriate for data **OR** preprocessing is missing or contains major errors **OR** relevant libraries not used correctly. Setup inadequate or missing.                                                      |
-| **2. Analysis & Implementation** (5 pts)        | Correctly applies relevant & reasonably sophisticated analysis techniques (e.g., forecasting model; topic model, sentiment analysis). Implementation uses library functions accurately and effectively. Analysis directly addresses relevant goal (either main project goal or specific extra credit goal).                            | Correctly applies relevant basic analysis techniques. Implementation uses library functions correctly for the chosen method. Analysis is relevant.                                                                                                                                       | Attempts relevant techniques but contains minor errors in application or implementation. Analysis may be only tangentially relevant or incomplete.                                                                                                                                            | Inappropriate techniques applied **OR** major errors in implementation **OR** analysis is missing or irrelevant.                                                                                                                        |
-| **3. Interpretation & Integration** (5 pts)     | Provides insightful interpretation of advanced analysis results. Clearly explains findings and their significance. Effectively integrates/connects these findings with the main project's objectives or conclusions. Communication (markdown) within the extra credit section is clear and comprehensive.                                | Provides correct interpretation of results. Explains findings adequately. Makes a reasonable attempt to connect findings to the main project. Communication is clear.                                                                                                                    | Interpretation is superficial or partially incorrect. Explanation is unclear. Connection to main project is weak or missing. Communication lacks detail.                                                                                                                                   | Interpretation missing or incorrect. No explanation of findings. No connection made to the main project. Poor or missing communication within the section.                                                              |
 
 ## Grading Scheme
 
