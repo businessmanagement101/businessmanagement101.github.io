@@ -4,7 +4,7 @@ hide:
   - toc
   - footer
 ---
-# **Introduction to Business Management: BUSERV 1910/1915**
+# **Introduction to Business & Management: BUSERV 1910/1915**
 
 
 <div class="grid cards" markdown>

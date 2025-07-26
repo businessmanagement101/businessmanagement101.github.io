@@ -10,21 +10,25 @@ hide:
 
 <div class="grid" markdown>
 
-!!! info "Course Information"
+!!! info "Course Information: BUSERV1910 Introduction to Business"
 
-    - __Course Title:__ Data Programming Essentials with Python
-    - __Class Number:__ 16908
-    - __Term & Credits:__ Summer 2024-2015 / 3 Credits
-    - __Pre-requisites/Co-requisites:__ Graduate-level Statistics (BQOM 2401or equivalent)
+    - __Class Number:__ 11818 
+    - __Term & Credits:__ Fall 2025-2026 / 3 Credits
+    - __Pre-requisites/Co-requisites:__ None
+    - __Meeting Schedule:__ Thursdays 6:30-9:00pm @ Mervis B75
+    - __Instructor Email:__ [midhu.balan@pitt.edu](mailto:midhu.balan@pitt.edu)
+    - __Office Hours:__ Tu, Th 1:00-3:00pm @ [Zoom](https://pitt.zoom.us/my/midhubalan).    
     { .card }
 
-!!! info "Schedule & Instructor"  
+!!! info "Course Information: BUSERV1915 Introduction to Management"
 
-    - __Meeting Times:__ Thursdays 6:20-9:20pm 
-    - __Meeting Location:__ [Zoom Meeting Room](https://pitt.zoom.us/j/98751974356). See Canvas for passcode.
-    - __Instructor:__ Midhu Balan
-    - __Virtual Office Hours:__ Th 3:00-5:00pm @ [Zoom](https://pitt.zoom.us/my/midhubalan).
-    {.card}
+    - __Class Number:__ 11819
+    - __Term & Credits:__ Fall 2025-2026 / 3 Credits
+    - __Pre-requisites/Co-requisites:__ None
+    - __Meeting Schedule:__ Tuesdays 6:30-9:00pm @ Sennott 2300 
+    - __Instructor Email:__ [midhu.balan@pitt.edu](mailto:midhu.balan@pitt.edu)
+    - __Office Hours:__ Tu, Th 1:00-3:00pm @ [Zoom](https://pitt.zoom.us/my/midhubalan).    
+    { .card }
 
 </div>
 
