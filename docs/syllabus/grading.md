@@ -85,38 +85,49 @@ This statement is a perfect real-world application of stakeholder primacy. The C
 
 ## **Concept Map & Analytical Narrative**
 
-### **Assignment Description**
+**The Purpose:** The goal of this assignment is to build your own integrated theory of management. You will create a **Concept Map** to visually structure the relationships between the course's core ideas and a **Theoretical Narrative** to explain the logic and implications of those connections.
 
-**The Purpose:** The goal of this assignment is to create a living document that visualizes your understanding of business and management. It is composed of two parts that work together: a **Concept Map** (the visual structure of your ideas) and an **Analytical Narrative** (the written explanation of your insights). This assignment is not a one-time task; it is a project you will build incrementally throughout the semester, culminating in a powerful tool for synthesizing course material and preparing for your final company analysis.
+Your primary subject of analysis is the **network of course concepts themselves**—their hierarchy, their dependencies, and the way they link together to form a coherent system. Your chosen company will serve as a consistent "case study" throughout your narrative, providing concrete examples that illustrate your theoretical points in action.
 
-**The Anchor: Your Focus Question:** The heart of this assignment is a single, powerful **focus question** that you will develop and refine. This question will guide your analysis and give your map a purpose. It should be an analytical question, not a descriptive one.
+This assignment focuses on the **"why" and "how" of the theories**, while the final Company Analysis project will focus on the **"what" and "so what" of the company's empirical actions**.
 
-* *Descriptive Question (Avoid):* "What is Apple's marketing strategy?"
-* *Analytical Question (Pursue):* "How does Apple's culture of secrecy and product design excellence create a sustainable competitive advantage?"
+**The Anchor: Your Conceptual Focus Question**
+The heart of this assignment is a single, powerful **conceptual focus question**. Unlike the empirical question for your final project, this question should be about the relationship between theoretical ideas.
+
+* **Empirical Question (for the Final Project):** "How does Apple's culture of secrecy and product design excellence create a sustainable competitive advantage?" (This question is about Apple).
+* **Conceptual Question (for This Assignment):** "How does the strategic concept of 'Competitive Advantage' depend on the effective integration of principles from Marketing (e.g., 'Brand Equity') and Operations (e.g., 'Supply Chain Efficiency')?" (This question is about the *theories*, using a company like Apple for examples).
+
+**More Examples of Good Conceptual Focus Questions:**
+* "How can a company's 'Management Ideology' (e.g., Shareholder Primacy) create predictable tensions with the marketing goal of building long-term 'Brand Equity'?"
+* "In what ways do the principles of 'Organizational Culture' and 'Team Composition' serve as the necessary foundation for executing a strategy of 'Disruptive Innovation'?"
+
+**Analysis vs. Description**
+
+To clarify how a theoretical analysis and a empirical description differ, consider this example:
+
+| Instead of This (Describing the Company) | Try This (Analyzing the Concepts) |
+| :--- | :--- |
+| "Patagonia has a strong organizational culture that values environmentalism. It uses this to build a loyal customer base, which is its brand equity." | "This analysis argues that a stakeholder-centric **'Management Ideology'** is a direct prerequisite for building authentic **'Brand Equity.'** For a company like Patagonia, its stakeholder actions—such as environmental advocacy—are not separate from its marketing; they *are* the marketing. This illustrates how a firm's internal **'Organizational Culture'** can be its most powerful and difficult-to-imitate marketing asset, creating a brand that purely profit-driven competitors cannot easily replicate." |
+
+
 
 **The Final Deliverables:**
 
-1.  **The Concept Map:** A visual diagram that connects your chosen company to a wide range of relevant course concepts. The connections must be labeled to explain the relationships.
-2.  **The Analytical Narrative (1,000 - 1,250 words):** An essay that explains the argument you have built in your concept map. This narrative should:
-    * State your focus question and provide a clear, concise answer (your thesis).
-    * Use the structure of your map to guide the reader through your analysis.
-    * **Prioritize analysis:** Do not waste space defining concepts. Instead, focus on explaining the *connections* between them, evaluating trade-offs, and synthesizing information to support your thesis. Explain *why* and *how* a particular action by the company illustrates a course concept and helps answer your focus question.
+1.  **The Concept Map:** A visual diagram showing the hierarchy and cross-linkages between a wide range of course concepts. Your map should be organized to help answer your focus question.
+2.  **The Theoretical Narrative (1,000 - 1,250 words):** This is a formal essay that answers your conceptual focus question. **This is not a report about your company.** It is a theoretical argument where you use examples from your chosen company to illustrate your points about how different business concepts interact. Your primary claims should be about the theories themselves.
 
 ---
-### **Grading Rubric: Concept Map & Narrative**
+### **Revised Grading Rubric: Conceptual Foundations**
 
 | Criteria | Excellent | Good | Developing | Needs Improvement |
 | :--- | :--- | :--- | :--- | :--- |
-| **Focus Question & Thesis** (20%) | The focus question is highly analytical and insightful. The narrative presents a clear, compelling, and well-supported thesis that directly answers the question. | The focus question is analytical. The narrative presents a clear thesis, but it may be somewhat obvious or less strongly supported. | The question is more descriptive than analytical. The thesis is unclear, or the narrative fails to consistently support it. | The question is missing or purely descriptive. No clear thesis is presented. |
-| **Breadth & Depth of Concepts** (30%) | The map and narrative integrate a wide breadth of concepts from across the course. The application of concepts is deep, nuanced, and demonstrates a sophisticated understanding of their relationships. | The map and narrative use a good range of concepts, but may over-rely on one module. Application is correct but may lack nuance. | Only a limited number of concepts are used. Connections are superficial or simply stated without explanation. | Few or no course concepts are used, or they are applied incorrectly. |
-| **Analysis vs. Description** (40%) | The narrative is overwhelmingly analytical. It masterfully evaluates, synthesizes, and critiques, using facts only as evidence for a larger argument. The focus is clearly on the "why" and "so what." | The narrative contains a good balance of analysis and description, but could push further into evaluation and synthesis. | The narrative is primarily descriptive, summarizing facts about the company or defining concepts rather than analyzing their connections. | The narrative is purely descriptive or a simple summary of facts. |
-| **Clarity & Structure** (10%) | The concept map is clear, logical, and easy to follow. The narrative is exceptionally well-written, professionally formatted, and logically structured. | The map is mostly clear. The narrative is well-written with a logical structure, though it may have minor organizational or clarity issues. | The map is cluttered or difficult to understand. The narrative lacks a clear structure or contains frequent errors. | The map is illegible. The narrative is disorganized and poorly written. |
+| **Focus Question & Thesis** (20%) | The focus question is highly analytical and **conceptual**. The narrative presents a clear, insightful thesis about the relationship between course concepts. | The focus question is conceptual but may be broad. The narrative presents a clear thesis, but its argument may be less developed. | The question blurs the line between conceptual and empirical. The thesis is unclear or not well-supported. | The question is purely empirical/descriptive. No clear thesis is presented. |
+| **Breadth & Depth of Concepts** (30%) | The map and narrative integrate a wide breadth of concepts. The analysis focuses on the **hierarchy and cross-linkages** between concepts, showing a sophisticated understanding of their interplay. | The map and narrative use a good range of concepts. Some cross-linkages are explored, but the analysis could be deeper. | Only a limited number of concepts are used in isolation. The narrative lacks a discussion of hierarchy or cross-linkages. | Few or no course concepts are used, or they are applied incorrectly. |
+| **Analysis vs. Description** (40%) | The narrative is overwhelmingly analytical, explaining the **implications of theoretical connections**. Company examples are used skillfully and concisely to *illustrate* the conceptual argument, not as the main subject. | The narrative contains a good balance of conceptual analysis and company description. The role of the company example is mostly clear. | The narrative leans heavily on describing the company's actions, with the conceptual argument being secondary or unclear. | The narrative is purely a description of the company or a list of concept definitions. |
+| **Clarity & Structure** (10%) | The concept map is clear and logically structured to answer the focus question. The narrative is exceptionally well-written and organized. | The map is mostly clear. The narrative is well-written and logically structured, with minor issues. | The map is cluttered or difficult to understand. The narrative lacks a clear structure or contains frequent errors. | The map is illegible. The narrative is disorganized and poorly written. |
 
----
 
 ## **Company Analysis**
-
-### **Assignment Description**
 
 **The Purpose:** This capstone assignment is your opportunity to synthesize everything you have learned in the course. You will conduct a comprehensive analysis of your chosen company, moving beyond simple description to develop a persuasive, evidence-based argument about the firm's core strategic drivers.
 
