@@ -41,8 +41,8 @@ hide:
 - :fontawesome-regular-calendar: [__Schedule__](schedule.md)
 - :material-bookshelf: [__Course Material__](course-materials.md)
 - :material-book-check-outline: [__Grading & Evaluation__](grading.md)
-- :octicons-project-24: [__Concept Map Guide__](concept-map-guide.md)
-- :octicons-project-24: [__Company Analysis Guide__](company-analysis-guide.md)
+- :material-file-tree: [__Concept Map Guide__](concept-map-guide.md)
+- :material-text-search: [__Company Analysis Guide__](company-analysis-guide.md)
 - :simple-chatbot: [__AI Policies__](ai-policy.md)
 - :material-file-document-multiple-outline: [__Course Policies__](course-policies.md)
 
