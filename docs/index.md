@@ -50,17 +50,19 @@ hide:
 
     [:octicons-arrow-right-24: Grading Information](syllabus/grading.md)
 
-    [:octicons-arrow-right-24: Project Guide](syllabus/project-guide.md)
+    [:octicons-arrow-right-24: Concept Map Guide](syllabus/concept-map-guide.md)
+
+    [:octicons-arrow-right-24: Company Analysis Guide](syllabus/company-analysis-guide.md)
 
     [:octicons-arrow-right-24: Canvas Assignment Page](https://canvas.pitt.edu/courses/313542)
 
--   :octicons-beaker-24:{ .lg .middle } __Labs__
+-   :octicons-beaker-24:{ .lg .middle } __Tools__
 
     ---
 
-    [:octicons-arrow-right-24: NotebookLM](labs/notebooklm/index.md)
+    [:octicons-arrow-right-24: NotebookLM](getting-started/notebooklm/index.md)
 
-    [:octicons-arrow-right-24: Concept Map](labs/concept-map/index.md)
+    [:octicons-arrow-right-24: Concept Map](getting-started/concept-map/index.md)
 
 -   :material-gold:{ .lg .middle } __Resources and References__
 

@@ -128,8 +128,10 @@ nav:
     - Course Description: syllabus/course-description.md
     - Course Materials: syllabus/course-materials.md
     - Grading & Evaluation: syllabus/grading.md
-    - Project Guide: syllabus/project-guide.md
+    - Concept Map Guide: syllabus/concept-map-guide.md
+    - Company Analysis Guide: syllabus/company-analysis-guide.md
     - Schedule: syllabus/schedule.md
+    - AI Policy: syllabus/ai-policy.md
     - Course Policies: syllabus/course-policies.md
   - Getting Started:
     - getting-started/index.md
@@ -139,5 +141,10 @@ nav:
       - getting-started/notebooklm/index.md 
     - Gemini:
       - getting-started/gemini/index.md 
-  
+  - Foundations:
+    - foundations/index.md
+  - Business Functions:
+    - business-functions/index.md    
+  - Experiential Learning:
+    - experiential-learning/index.md  
     
