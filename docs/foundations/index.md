@@ -5,3 +5,5 @@ hide:
   - path
   - footer
 ---
+
+# Foundations

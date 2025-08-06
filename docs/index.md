@@ -35,13 +35,13 @@ hide:
     ---
 
 
-    [:octicons-arrow-right-24: Getting Started](#)
+    [:octicons-arrow-right-24: Getting Started](getting-started/index.md)
 
-    [:octicons-arrow-right-24: Exploratory Data Analysis](#)
+    [:octicons-arrow-right-24: Foundations](foundations/index.md)
     
-    [:octicons-arrow-right-24: Introduction to Modeling ](#)
+    [:octicons-arrow-right-24: Business Functions ](business-functions/index.md)
 
-    [:octicons-arrow-right-24: Advanced Data Types](#)
+    [:octicons-arrow-right-24: Experiential Learning](experiential-learning/index.md)
 
 -   :material-book-check-outline:{ .lg .middle } __Grading & Evaluation__
 
