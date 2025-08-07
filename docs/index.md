@@ -17,7 +17,7 @@ hide:
 
     [:octicons-arrow-right-24: Schedule](syllabus/schedule.md)
 
-    [:octicons-arrow-right-24: Course Material](syllabus/schedule.md)
+    [:octicons-arrow-right-24: Course Material](syllabus/course-materials.md)
 
 -   :material-clock-fast:{ .lg .middle } __Instructor's Office & Classroom__
 
