@@ -6,8 +6,8 @@ hide:
 
 # Schedule
 
-
-??? info "**Schedule: BUSERV 1910 - Introduction to Business**"
+## BUSERV 1910
+??? info "**Schedule: Introduction to Business**"
 
     
     | Module | Date, Topic, &  Graded Deliverables |
@@ -17,7 +17,8 @@ hide:
     | Business Functions \- The Organizational Engine & Its Levers | 10/09: The Engine: Organization, Operations, and Culture \- I <br> 10/16: The Engine: Organization, Operations, and Culture \- II <br> 10/23: The People: Talent & Human Resource Management <br> 10/30: The Megaphone: Marketing & Sales <br> ==11/06: Project Booster: Async Week== <br> 11/13: The Fuel: Finance & Value Creation <br> 11/20: The Catalyst: Technology & Innovation Management |
     | Experiential Learning | ==11/27: Thanksgiving Recess== <br> 12/04: Project Clinic <br> 12/11: Course Wrapup  |
 
-??? info "**Schedule: BUSERV 1915 - Introduction to Management**"
+## BUSERV 1915
+??? info "**Schedule: Introduction to Management**"
 
     | Module | Date, Topic, &  Graded Deliverables |
     | :---- | :---- |
