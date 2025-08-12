@@ -98,6 +98,7 @@ The heart of this assignment is a single, powerful **conceptual focus question**
 * **Conceptual Question (for This Assignment):** "How does the strategic concept of 'Competitive Advantage' depend on the effective integration of principles from Marketing (e.g., 'Brand Equity') and Operations (e.g., 'Supply Chain Efficiency')?" (This question is about the *theories*, using a company like Apple for examples).
 
 **More Examples of Good Conceptual Focus Questions:**
+
 * "How can a company's 'Management Ideology' (e.g., Shareholder Primacy) create predictable tensions with the marketing goal of building long-term 'Brand Equity'?"
 * "In what ways do the principles of 'Organizational Culture' and 'Team Composition' serve as the necessary foundation for executing a strategy of 'Disruptive Innovation'?"
 
@@ -117,7 +118,7 @@ To clarify how a theoretical analysis and a empirical description differ, consid
 2.  **The Theoretical Narrative (1,000 - 1,250 words):** This is a formal essay that answers your conceptual focus question. **This is not a report about your company.** It is a theoretical argument where you use examples from your chosen company to illustrate your points about how different business concepts interact. Your primary claims should be about the theories themselves.
 
 ---
-### **Revised Grading Rubric: Conceptual Foundations**
+### **Grading Rubric: Conceptual Foundations**
 
 | Criteria | Excellent | Good | Developing | Needs Improvement |
 | :--- | :--- | :--- | :--- | :--- |
