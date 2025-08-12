@@ -17,7 +17,7 @@ hide:
     - __Pre-requisites/Co-requisites:__ None
     - __Meeting Schedule:__ Thursdays 6:30-9:00pm @ Mervis B75
     - __Instructor Email:__ [midhu.balan@pitt.edu](mailto:midhu.balan@pitt.edu)
-    - __Office Hours:__ Tu, Th 1:00-3:00pm @ [Zoom](https://pitt.zoom.us/my/midhubalan).    
+    - __Office Hours:__ Tu, Th 12:00-2:00pm @ Mervis 315.    
     { .card }
 
 !!! info "Course Information: BUSERV1915 Introduction to Management"
@@ -27,7 +27,7 @@ hide:
     - __Pre-requisites/Co-requisites:__ None
     - __Meeting Schedule:__ Tuesdays 6:30-9:00pm @ Sennott 2300 
     - __Instructor Email:__ [midhu.balan@pitt.edu](mailto:midhu.balan@pitt.edu)
-    - __Office Hours:__ Tu, Th 1:00-3:00pm @ [Zoom](https://pitt.zoom.us/my/midhubalan).    
+    - __Office Hours:__ Tu, Th 12:00-2:00pm @ Mervis 315.    
     { .card }
 
 </div>
