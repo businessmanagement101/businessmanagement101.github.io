@@ -6,20 +6,14 @@ hide:
 
 # Schedule
 
-## BUSERV 1910
-??? info "**Schedule: Introduction to Business**"
-
-    
+=== "BUSERV 1910: Introduction to Business"
     | Module | Date, Topic, &  Graded Deliverables |
     | :---- | :---- |
     | Getting Started | 08/28: Course Overview & Introduction to Concept Map <br> 09/04: Introduction to NotebookLM & Gemini |
     | Foundations \- The Playing Field & The Game Plan | 09/11: The Playing Field: Markets, Value, and Failure <br> 09/18: The Game Plan: Strategy & Competitive Advantage <br> 09/25: The Captains: Leadership, Governance, and Ideology \- I <br> 10/02: The Captains: Leadership, Governance, and Ideology \- II |
     | Business Functions \- The Organizational Engine & Its Levers | 10/09: The Engine: Organization, Operations, and Culture \- I <br> 10/16: The Engine: Organization, Operations, and Culture \- II <br> 10/23: The People: Talent & Human Resource Management <br> 10/30: The Megaphone: Marketing & Sales <br> ==11/06: Project Booster: Async Week== <br> 11/13: The Fuel: Finance & Value Creation <br> 11/20: The Catalyst: Technology & Innovation Management |
     | Experiential Learning | ==11/27: Thanksgiving Recess== <br> 12/04: Project Clinic <br> ==12/11: Finals Week==  |
-
-## BUSERV 1915
-??? info "**Schedule: Introduction to Management**"
-
+=== "BUSERV 1915: Introduction to Management"
     | Module | Date, Topic, &  Graded Deliverables |
     | :---- | :---- |
     | Getting Started | 08/26: Course Overview & Introduction to Concept Map <br> 09/02: Introduction to NotebookLM & Gemini |
