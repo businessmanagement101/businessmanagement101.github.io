@@ -26,9 +26,9 @@ hide:
 
     [:octicons-arrow-right-24: Instructor Info Page via Canvas](https://canvas.pitt.edu/courses/321111/pages/instructor-info)
 
-    [:octicons-arrow-right-24: Virtual Office](https://pitt.zoom.us/my/midhubalan)
-
     [:octicons-arrow-right-24: Email](mailto:midhu.balan@pitt.edu)
+
+    :octicons-arrow-right-24: Office Hours: Tu, Th 12:00-2:00pm @ Mervis 315.
 
 -   :material-view-module-outline:{ .lg .middle } __Course Modules__
 
@@ -73,9 +73,9 @@ hide:
 
     [:octicons-arrow-right-24: Company Research @ Pitt](https://pitt.libguides.com/companyresearch)
 
-    [:octicons-arrow-right-24: NotebookLM Docs](https://support.google.com/notebooklm)
+    [:octicons-arrow-right-24: NotebookLM Documentation](https://support.google.com/notebooklm)
 
-    [:octicons-arrow-right-24: Lucid Education Suite @ Pitt Docs](https://teaching.pitt.edu/resources/an-introduction-to-the-lucid-education-suite/)
+    [:octicons-arrow-right-24: Lucid Education Suite @ Pitt](https://teaching.pitt.edu/resources/an-introduction-to-the-lucid-education-suite/)
 
 
 </div>
