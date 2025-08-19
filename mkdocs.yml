@@ -138,6 +138,13 @@ nav:
     - getting-started/index.md
     - Concept Map:
       - getting-started/concept-map/index.md
+      - Introduction: getting-started/concept-map/intro.md
+      - Anatomy of Concept Map: getting-started/concept-map/anatomy.md
+      - Focus Question Strategies: getting-started/concept-map/focus-question.md
+      - Workshop I: getting-started/concept-map/workshop-1.md
+      - Workshop II: getting-started/concept-map/workshop-2.md
+      - Workshop III: getting-started/concept-map/workshop-3.md
+      - Conclusions & Next Steps: getting-started/concept-map/next-steps.md
     - NotebookLM:
       - getting-started/notebooklm/index.md 
     - Gemini:

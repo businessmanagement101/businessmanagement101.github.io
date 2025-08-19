@@ -14,7 +14,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Getting started](concept-map/index.md)
+    [:octicons-arrow-right-24: Introduction to Concept Map](concept-map/intro.md)
 
 
 -   [:simple-notebooklm:{ .lg .middle } __NotebookLM Lab__](notebooklm/index.md)
