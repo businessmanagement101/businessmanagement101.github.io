@@ -1,3 +1,6 @@
+---
+icon: material/numeric-1
+---
 
 # **Why Use Concept Maps?**
 
