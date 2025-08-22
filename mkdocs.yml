@@ -143,7 +143,7 @@ nav:
       - Focus Question Strategies: getting-started/concept-map/focus-question.md
       - "Workshop: Part - I": getting-started/concept-map/workshop-1.md
       - "Workshop: Part - II": getting-started/concept-map/workshop-2.md
-      - "Workshop: Part - III": getting-started/concept-map/workshop-3.md
+      - Tips & Best Practices: getting-started/concept-map/tips.md
       - Conclusions & Next Steps: getting-started/concept-map/next-steps.md
     - NotebookLM:
       - getting-started/notebooklm/index.md 
