@@ -145,10 +145,8 @@ nav:
       - "Workshop: Part - II": getting-started/concept-map/workshop-2.md
       - Tips & Best Practices: getting-started/concept-map/tips.md
       - Conclusions & Next Steps: getting-started/concept-map/next-steps.md
-    - NotebookLM:
-      - getting-started/notebooklm/index.md 
-    - Gemini:
-      - getting-started/gemini/index.md 
+    - Research with AI:
+      - getting-started/research-with-ai/index.md 
   - Foundations:
     - foundations/index.md
   - Business Functions:

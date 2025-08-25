@@ -17,18 +17,12 @@ hide:
     [:octicons-arrow-right-24: Introduction to Concept Map](concept-map/intro.md)
 
 
--   [:simple-notebooklm:{ .lg .middle } __NotebookLM Lab__](notebooklm/index.md)
+-   [:simple-notebooklm:{ .lg .middle } __Research with AI__](research-with-ai/index.md)
 
     ---
 
-    [:octicons-arrow-right-24: Getting Started with NotebookLM](notebooklm/index.md)
+    [:octicons-arrow-right-24: Getting Started with NotebookLM](research-with-ai/index.md)
 
-
--   [:simple-googlegemini:{ .lg .middle } __Google Gemini__](gemini/index.md)
-
-    ---
-
-    [:octicons-arrow-right-24: Getting started with Gemini](gemini/index.md)
 
 
 </div>

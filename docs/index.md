@@ -60,9 +60,9 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: NotebookLM](getting-started/notebooklm/index.md)
-
     [:octicons-arrow-right-24: Concept Map](getting-started/concept-map/index.md)
+
+    [:octicons-arrow-right-24: Gemini & NotebookLM](getting-started/research-with-ai/index.md)
 
 -   :material-gold:{ .lg .middle } __Resources and References__
 
