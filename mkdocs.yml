@@ -147,6 +147,14 @@ nav:
       - Conclusions & Next Steps: getting-started/concept-map/next-steps.md
     - Research with AI:
       - getting-started/research-with-ai/index.md 
+      - Working with AI: getting-started/research-with-ai/working-with-ai.md
+      - Writing Good Prompts: getting-started/research-with-ai/prompting.md
+      - Analysis with NotebookLM: getting-started/research-with-ai/notebooklm-activity.md
+      - "Gemini: AI Collaborator" : getting-started/research-with-ai/gemini-activity.md
+      - AI Best Practices: getting-started/research-with-ai/best-practices.md
+      - Conclusion & Next Steps: getting-started/research-with-ai/next-steps.md
+
+
   - Foundations:
     - foundations/index.md
   - Business Functions:
