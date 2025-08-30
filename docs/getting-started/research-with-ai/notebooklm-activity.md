@@ -11,7 +11,9 @@ This activity is designed to move you from theory to practice. You'll use Notebo
 
 ## :material-numeric-1-circle: Gather Your Sources
 
-To begin, download the curated set of files your instructor has provided. This collection includes Ford's latest Form 10-K, proxy filings, and a Q4 earnings call transcript. You'll also find a text file containing links to a YouTube interview and a Google Doc. This variety is intentional—it highlights NotebookLM's ability to handle diverse source formats, including PDFs, TXT files, and even content from Google Drive and YouTube links.
+!!! info "[***Download source documents here***](https://drive.google.com/drive/folders/1RlgoKRlnqf6EO5TZg2ZiVHNYF2QUB44N?usp=sharing)"
+
+To begin, download the curated set of files I have put together for you. This collection includes Ford's latest Form 10-K, proxy filings, and a Q4 earnings call transcript. You'll also find a text file containing links to a YouTube interview and a Google Doc. This variety is intentional—it highlights NotebookLM's ability to handle diverse source formats, including PDFs, TXT files, and even content from Google Drive and YouTube links.
 
 
 ## :material-numeric-2-circle: Create Your Notebook & Explore the Interface
