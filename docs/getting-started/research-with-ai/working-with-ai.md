@@ -94,6 +94,7 @@ Not all AI tools are the same. For this course, we will use two powerful but ver
 Imagine you're sitting down with an expert who has read most of the public internet. They can explain anything from quantum physics to Shakespearean literature, draft a marketing plan, or help you brainstorm ideas for a new product.
 
 **Strengths:**
+
 * **Brainstorming and Ideation**: When you're facing a blank page, Gemini is your best friend. You can ask it to generate ideas, explore different angles, and act as a creative sounding board.
 * **Explaining Complex Topics**: It can take a complex idea—like a financial derivative or a piece of legislation—and explain it in simple terms or with an analogy.
 * **Drafting and Summarizing (General)**: Gemini can create a first draft of an email, a memo, or an essay on a general topic. It can also summarize broad concepts based on its general knowledge.
@@ -110,6 +111,7 @@ Gemini's knowledge is vast but general. It does **not** know what's in the speci
 Imagine handing a stack of specific reports, articles, and transcripts to a brilliant research assistant and saying, "Read these, and only these. Now, answer my questions based solely on what you've read." That is NotebookLM. It creates a personalized AI model grounded in *your* documents.
 
 **Strengths:**
+
 * **Source-Grounded Answers**: Its most important feature. NotebookLM will only answer questions based on the sources you upload. When it provides an answer, it also provides a citation that takes you to the exact passage in your source document, making verification instant.
 * **Summarizing Dense Materials**: You can upload a 100-page annual report and ask NotebookLM to provide a five-bullet-point summary of the key financial results.
 * **Finding Connections Across Sources**: It can synthesize information from multiple documents. You can ask, "What are the common themes mentioned in the earnings call transcript and the CEO's interview?".
