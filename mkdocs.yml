@@ -157,7 +157,10 @@ nav:
 
   - Foundations:
     - foundations/index.md
-    - Value Creation, Markets, & Market Failure: foundations/value-market-failure.md
+    - Value Creation & Markets: foundations/value-market-failure.md
+    - Strategy & Competition: foundations/strategy-advantage.md
+    - Leadership & Governance: foundations/leadership-governance.md
+    - Management Ideology: foundations/ideology.md
   - Business Functions:
     - business-functions/index.md    
   - Experiential Learning:

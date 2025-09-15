@@ -66,6 +66,7 @@ Imagine a bustling farmers' market. Dozens of farmers are selling tomatoes, and 
 This process is called **price discovery**. A market's most essential job is to act as a giant information-processing machine. It takes in all the information about how much supply is available (the farmers' tomatoes) and how much demand there is (the customers' desire for tomatoes) and produces a single piece of data: the **market price**.
 
 This price is a powerful signal.
+
 * For **buyers**, it signals how much they have to give up to get the product.
 * For **sellers**, it signals how much they can expect to receive for their efforts.
 
@@ -109,6 +110,7 @@ The answer often lies in how they design their internal operations. Managers use
 Think about a local bakery. To bake one cookie, the baker needs to preheat the entire oven, use a mixing bowl, and clean up afterward. The cost for that single cookie is very high. But if they bake 1,000 cookies, the cost of preheating that same oven is spread across all 1,000 cookies. They can buy flour in bulk at a discount and perfect their process through repetition. The cost per cookie plummets.
 
 This happens for a few key reasons:
+
 * **Spreading Fixed Costs:** The costs of factories, machinery, and management can be spread over more units.
 * **Specialization:** Higher volume allows workers to specialize in specific tasks, making them faster and more efficient.
 * **Purchasing Power:** Large companies can negotiate lower prices when buying raw materials in bulk.
@@ -121,6 +123,7 @@ The key idea behind economies of scale is becoming more efficient by doing **mor
 **Economies of scope**, while related, are different. They occur when it's cheaper for a firm to produce a variety of different but related products together than for separate firms to produce those same products independently. This principle is about leveraging shared resources.
 
 Consider a company like Nike. It produces running shoes, basketball shorts, soccer jerseys, and athletic socks. It can do this efficiently because all these products can be:
+
 * Marketed under the same powerful "Nike" brand.
 * Sold through the same distribution channels and retail stores.
 * Designed by teams that share knowledge about athletic materials and apparel.
