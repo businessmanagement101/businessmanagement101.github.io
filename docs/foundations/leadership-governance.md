@@ -99,9 +99,6 @@ This potential conflict of interest is the core of the principal-agent problem. 
 
     The captain, however, might prefer to take a safer, easier route, trade in a less profitable but more convenient port, and ensure the ship and crew (including himself) return safely. His personal risk (life and limb) is different from your financial risk. This creates a classic principal-agent problem where the captain's self-interest may not align with the owner's interest in maximizing profit.
 
-    Excellent. Here is the content for Part 4.
-
----
 
 ## :material-numeric-4-circle: Corporate Governance: The Rules of the Game
 
@@ -197,9 +194,6 @@ Together, these mechanisms create a powerful system that directs managerial atte
 
     This dilemma is a crucial test for corporate governance. The **board of directors** must approve the capital allocation plan, ensuring it aligns with the long-term interests of shareholders. This is also where the **principal-agent problem** can resurface in the form of "empire-building." A CEO might be tempted to reinvest profits in low-return projects just to increase the size of the company. A vigilant board must challenge this, ensuring that capital is only reinvested when it can generate value, and is returned to shareholders otherwise.
 
-Of course. Here is the concluding part of the lesson, which summarizes the key points and sets the stage for the next topic.
-
----
 
 ## :material-flag-checkered: Conclusion: A Bridge to the Next Debate
 
