@@ -118,6 +118,17 @@ The Board of Directors is elected by the shareholders to be their official repre
     * **Strategic Oversight:** The board does not create the company's strategy, but it does review, challenge, and ultimately approve the strategic plans brought forth by the CEO. This ensures there is an independent check on major decisions.
     * **Succession Planning:** A forward-looking board is always preparing for the future by identifying and developing potential leaders to ensure a smooth transition when the current CEO steps down.
 
+
+!!! info "Beyond the Boardroom: The Informal Roles of Directors 🤝"
+    
+    Beyond their formal duties of oversight and control, effective directors add significant value to a company through several informal, relationship-based roles.
+    
+    * **Conduit for Resources:** Directors leverage their extensive personal and professional networks to provide the firm with access to hard-to-reach resources. This can include political influence, connections to potential customers or capital, or valuable market intelligence gathered through "board interlocks" (where a director serves on multiple companies' boards). This is why you often see high-profile former officials, like former Speaker of the House Paul Ryan or former National Economic Council Director Gary Cohn, serving on corporate boards.
+    
+    * **Strategic Sounding Board:** The CEO's job can be isolating. A strong board acts as a confidential sounding board, providing a safe space for the CEO to vet, debate, and refine strategic ideas before they are finalized. This advisory role helps shape and improve strategy through consultation and candid feedback.
+    
+    * **Mentorship:** Many directors are current or former CEOs themselves. Their accumulated experience makes them uniquely qualified to mentor the current CEO, providing coaching and guidance. This role also extends to their formal duty of succession planning, as they help identify and develop the next generation of executive leadership.
+    
 ### The Role of the CEO & Executive Team 
 **The Agents**
 
