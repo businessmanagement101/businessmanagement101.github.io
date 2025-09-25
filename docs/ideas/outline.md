@@ -358,3 +358,12 @@ Write a complete, long-form article (approximately 1200-1500 words) based on the
 
 Begin writing the article now.
 ```
+| Category | Description |
+| --- | --- |
+| Key idea | Principal-agent relationships should reflect efficient organization of information and risk-bearing costs |
+| Unit of analysis | Contract between principal and agent |
+| Human assumptions | Self-interest Bounded rationality Risk aversion |
+| Organizational assumptions | Partial goal conflict among participants Efficiency as the effectiveness criterion Information asymmetry between principal and agent |
+| Information assumption | Information as a purchasable commodity |
+| Contracting problems | Agency (moral hazard and adverse selection) Risk sharing |
+| Problem domain | Relationships in which the principal and agent have partly differing goals and risk preferences (e.g., compensation, regulation, leadership, impression management, whistle-blowing, vertical integration, transfer pricing) |
