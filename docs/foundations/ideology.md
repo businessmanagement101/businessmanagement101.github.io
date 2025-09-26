@@ -93,17 +93,17 @@ This view is not just a casual opinion; it is underpinned by a robust and influe
 
 ### Agency Theory
 
-[cite_start]The academic backbone of shareholder primacy is a perspective known as **Agency Theory**[cite: 924]. [cite_start]Agency theory is not a theory about the firm itself, but about the relationship between two parties: the **principal**, who delegates work, and the **agent**, who performs that work on behalf of the principal[cite: 960]. [cite_start]This structure is ubiquitous, describing relationships like a homeowner (principal) and a contractor (agent), a client (principal) and a lawyer (agent), and, most critically for our purposes, a company's owners (principals) and its executives (agents)[cite: 960, 970].
+The academic backbone of shareholder primacy is a perspective known as **Agency Theory**. Agency theory is not a theory about the firm itself, but about the relationship between two parties: the **principal**, who delegates work, and the **agent**, who performs that work on behalf of the principal. This structure is ubiquitous, describing relationships like a homeowner (principal) and a contractor (agent), a client (principal) and a lawyer (agent), and, most critically for our purposes, a company's owners (principals) and its executives (agents).
 
 Agency theory begins by assuming that in a world of imperfect information, two fundamental problems can disrupt this relationship:
 
-1.  [cite_start]**Conflicting Goals:** The desires of the principal and the agent can diverge[cite: 963]. Shareholders (principals) generally want to maximize the long-term value of their investment through profitable growth. Managers (agents), however, may be motivated by other goals, such as higher salaries, lavish corporate perks, job security, or building a larger corporate "empire," even if those actions don't create the most value for shareholders.
-2.  [cite_start]**Information Asymmetry:** It is difficult or expensive for the principal to verify what the agent is actually doing[cite: 963]. The agent is closer to the work and will always know more about their own actions and intentions than the principal does.
+1.  **Conflicting Goals:** The desires of the principal and the agent can diverge. Shareholders (principals) generally want to maximize the long-term value of their investment through profitable growth. Managers (agents), however, may be motivated by other goals, such as higher salaries, lavish corporate perks, job security, or building a larger corporate "empire," even if those actions don't create the most value for shareholders.
+2.  **Information Asymmetry:** It is difficult or expensive for the principal to verify what the agent is actually doing. The agent is closer to the work and will always know more about their own actions and intentions than the principal does.
 
 This combination of conflicting goals and asymmetric information creates the core **agency problem**. Because the principal cannot perfectly monitor the agent, they open themselves up to two specific risks:
 
-* [cite_start]**Moral Hazard:** This refers to the risk that the agent will not put forth the agreed-upon effort[cite: 1029]. [cite_start]Essentially, the agent might shirk their responsibilities because they know the principal isn't watching their every move[cite: 1030, 1031].
-* [cite_start]**Adverse Selection:** This refers to the risk that the agent has misrepresented their abilities[cite: 1032]. [cite_start]An agent may claim to have certain skills or experience when they are hired, but the principal cannot completely verify these claims at the outset[cite: 1033, 1034].
+* **Moral Hazard:** This refers to the risk that the agent will not put forth the agreed-upon effort. Essentially, the agent might shirk their responsibilities because they know the principal isn't watching their every move.
+* **Adverse Selection:** This refers to the risk that the agent has misrepresented their abilities. An agent may claim to have certain skills or experience when they are hired, but the principal cannot completely verify these claims at the outset.
 
 !!! info "The Principal-Agent Relationship is Everywhere"
     While we're focusing on the shareholder-manager relationship, the principal-agent dynamic appears in countless areas of life. When you hire a mechanic to fix your car, you are the principal and they are the agent. You have conflicting goals (you want a perfect repair at the lowest possible cost; they want to maximize their revenue) and you face information asymmetry (they know far more about cars than you do). The strategies you use to protect yourself—getting a second opinion, asking for a detailed quote, checking online reviews—are all informal ways of solving the agency problem.
@@ -111,10 +111,10 @@ This combination of conflicting goals and asymmetric information creates the cor
 
 ### Aligning Interests Through Contracts
 
-[cite_start]According to agency theory, the central challenge of management is to create the most **efficient contract** to govern the principal-agent relationship, one that minimizes both the agent's opportunistic behavior and the cost of monitoring that behavior[cite: 967]. This is achieved through two main types of contracts:
+According to agency theory, the central challenge of management is to create the most **efficient contract** to govern the principal-agent relationship, one that minimizes both the agent's opportunistic behavior and the cost of monitoring that behavior. This is achieved through two main types of contracts:
 
-1.  **Behavior-Based Contracts:** These reward the agent based on their actions or behaviors (e.g., a salary). [cite_start]This approach is efficient when the agent's work is straightforward, programmable, or easily observed by the principal[cite: 1071, 1075]. For example, a cashier's work is easily monitored, making an hourly wage (a behavior-based contract) effective.
-2.  [cite_start]**Outcome-Based Contracts:** These reward the agent based on the results they achieve (e.g., commissions, stock options, bonuses)[cite: 1042]. [cite_start]This is the preferred solution to the agency problem when the agent's behavior is difficult to observe[cite: 1042]. [cite_start]By tying the agent's reward to the same outcome the principal desires, the contract creates a powerful **coalignment of interests**[cite: 995]. The agent is motivated to act in the principal's best interest because it is now also their own best financial interest. Elon Musk's pay plan is an extreme but clear example of an outcome-based contract.
+1.  **Behavior-Based Contracts:** These reward the agent based on their actions or behaviors (e.g., a salary). This approach is efficient when the agent's work is straightforward, programmable, or easily observed by the principal. For example, a cashier's work is easily monitored, making an hourly wage (a behavior-based contract) effective.
+2.  **Outcome-Based Contracts:** These reward the agent based on the results they achieve (e.g., commissions, stock options, bonuses). This is the preferred solution to the agency problem when the agent's behavior is difficult to observe. By tying the agent's reward to the same outcome the principal desires, the contract creates a powerful **coalignment of interests**. The agent is motivated to act in the principal's best interest because it is now also their own best financial interest. Elon Musk's pay plan is an extreme but clear example of an outcome-based contract.
 
 
 ### Shareholder Primacy in Practice
@@ -164,15 +164,15 @@ Just as shareholder primacy has a distinct set of real-world practices, the stak
 
 Here is the next section of the lesson, which explores the real-world clash between these two ideologies.
 
-***
 
-### ## A Shifting Landscape: The Debate in Practice
+## The Debate in Practice
+**A Shifting Landscape**
 
 Now that we have explored the two dominant "operating systems" of business, we can turn to the battleground where they compete: the real world. This is not just a theoretical or historical debate; it is a live, evolving tension that defines the modern business landscape. Managers today are constantly caught in the cross-currents, navigating the powerful demands of the shareholder primacy model while facing a rising tide of stakeholder expectations.
 
----
 
-### #### The Case for Shareholder Primacy: Clarity, Accountability, and Growth
+### The Case for Shareholder Primacy
+**Clarity, Accountability, and Growth**
 
 The shareholder primacy model has endured for decades for several powerful reasons. Proponents argue that its single-minded focus is its greatest strength.
 
@@ -180,9 +180,9 @@ The shareholder primacy model has endured for decades for several powerful reaso
 * **The Social Value of Profit:** The pursuit of shareholder value is what incentivizes investors to provide the **risk capital** that fuels innovation and economic growth. Profit is a powerful signal that a company is using society's resources efficiently to create products and services that people value. This process, in turn, creates jobs, wealth, and progress that benefit society as a whole.
 * **Endurance in the Market:** The continued power of **activist investors**—shareholders who purchase large stakes in companies to force changes that increase shareholder returns—shows that this ideology remains a potent force in capital markets. Similarly, the massive scale of corporate **stock buybacks** demonstrates that returning capital to owners remains a top priority for many of the world's largest companies.
 
----
 
-### #### The Case for Stakeholder Primacy: Sustainability, Responsibility, and Resilience
+### The Case for Stakeholder Primacy
+**Sustainability, Responsibility, and Resilience**
 
 The stakeholder model has gained significant momentum by highlighting the potential risks and blind spots of a narrow shareholder focus.
 
@@ -193,15 +193,35 @@ The stakeholder model has gained significant momentum by highlighting the potent
 !!! info "The Business Roundtable's Landmark Statement"
     In August 2019, the **Business Roundtable**, an association of the chief executive officers of nearly 200 of America's most prominent companies, issued a landmark statement on the "Purpose of a Corporation." For decades, the group had held shareholder primacy as its guiding principle. But in this new statement, signed by 181 CEOs, they formally declared that corporations should serve *all* their stakeholders—customers, employees, suppliers, communities, and shareholders. While critics debate whether this statement has led to substantive change, it marked a major symbolic shift in the public rhetoric of corporate America.
 
----
-
-
-
-### #### The Manager's Dilemma
+### The Manager's Dilemma
 
 This ongoing debate places the modern manager in a difficult position. They are often legally and financially incentivized to maximize short-term shareholder value to satisfy the demands of Wall Street, while also recognizing that the long-term health of their enterprise depends on building strong, trusting relationships with all their stakeholders. Navigating this tension is one of the most difficult challenges of contemporary leadership.
 
-### **Section 5: Conclusion - Developing Your Managerial Lens**
 
-* **Reinforce the 'Lens' Concept:** This will summarize the lesson by reiterating that the goal is to understand the *assumptions* behind business decisions, not to declare one ideology superior.
-* **Application:** It will empower the student by showing how this lens helps them critically analyze business news, corporate behavior, and the culture of potential employers.
+## Conclusion
+**Developing Your Managerial Lens**
+
+Throughout this lesson, we have explored two powerful and competing ideologies that shape the purpose of the modern corporation. The goal was not to convince you that one is definitively "right" and the other is "wrong." Rather, it was to provide you with a new **managerial lens**—a way of seeing the underlying assumptions that drive business decisions.
+
+Think of these ideologies as different pairs of glasses.
+
+* One pair, **Shareholder Primacy**, brings the financial interests of the owners into sharp, clear focus. It is optimized for a world where clarity, accountability, and economic efficiency are paramount.
+* The other pair, **Stakeholder Primacy**, offers a wide-angle, panoramic view. It brings the entire network of relationships—with employees, customers, suppliers, and the community—into the frame, optimized for a world that values sustainability, resilience, and joint creation.
+
+Neither lens shows the "wrong" picture, but they reveal different realities and lead to different conclusions. The most effective and responsible leaders are those who are aware of which lens they—and their organization—are using.
+
+**Making Sense of the Business World**
+
+This lens is not just an academic tool; it is a practical guide for making sense of the business world around you.
+
+* **When Analyzing Business News:** You can now see the hidden ideology behind the headlines. Is a company's decision to lay off 10,000 employees a "difficult but necessary move to streamline operations and maximize shareholder value"? Or is it a "failure of the company's social contract with its dedicated employees"? The way the story is told often reveals the ideological lens of the narrator.
+* **When Understanding Corporate Scandals:** This lens helps you diagnose the root cause of corporate crises. Were the scandals at companies like Volkswagen over diesel emissions or at Wells Fargo over fake accounts simply the result of a few unethical individuals? Or were they the predictable, logical outcome of an "operating system" that relentlessly prioritized a single metric (market share, sales numbers) at the expense of all other ethical and stakeholder considerations? Your diagnosis of the problem will depend on the lens you use.
+* **When Evaluating Your Future Career:** When you interview with a company, you are not just applying for a job; you are auditioning to become part of a culture shaped by a powerful ideology. You can now move beyond surface-level questions and probe to understand a company's true "OS." Ask questions like:
+    * *How does this company measure success, beyond the financial bottom line?*
+    * *Can you share an example of a difficult decision where the interests of customers, employees, and shareholders had to be balanced?*
+    * *What is the company's relationship with the local community?*
+
+    The answers to these questions will reveal whether an organization views its employees as valuable stakeholders in a joint enterprise or simply as human resources to be managed for the ultimate benefit of its owners.
+
+
+Management is not a set of fixed scientific laws, but a human practice shaped by powerful ideas. By understanding these competing ideologies, you are better equipped to navigate the complexities of the business world, make more thoughtful decisions, and ultimately become a more effective and responsible leader.
