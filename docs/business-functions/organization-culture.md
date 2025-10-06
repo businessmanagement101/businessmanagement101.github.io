@@ -251,4 +251,4 @@ This creates a "success trap," where a company becomes so good at exploiting its
 
 One of the most critical mechanisms is its people. The continuous flow of employees—especially managing employee turnover to bring in fresh perspectives and hiring for new skills—is a primary way that organizations introduce new knowledge and spark exploration. This constant renewal of human capital is essential for challenging the status quo and ensuring the organization continues to learn and adapt.
 
-This sets the stage for our an upcoming lesson, where we will turn our focus to the people who bring the organization to life: **"The People: Talent & Human Resource Management."**
+This sets the stage for an upcoming lesson, where we will turn our focus to the people who bring the organization to life: **"The People: Talent & Human Resource Management."**
