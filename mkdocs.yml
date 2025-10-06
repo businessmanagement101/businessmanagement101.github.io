@@ -162,7 +162,13 @@ nav:
     - Leadership & Governance: foundations/leadership-governance.md
     - Management Ideology: foundations/ideology.md
   - Business Functions:
-    - business-functions/index.md    
+    - business-functions/index.md 
+    - Organization & Culture: business-functions/organization-culture.md 
+    - Operations Management: business-functions/operations-management.md    
+    - Talent & Human Resources: business-functions/hr-management.md    
+    - Marketing & Sales: business-functions/marketing-sales.md    
+    - Corporate Finance & Valuation: business-functions/finance-valuation.md    
+    - Technology & Innovation: business-functions/technology-innovation.md    
   - Experiential Learning:
     - experiential-learning/index.md  
     
