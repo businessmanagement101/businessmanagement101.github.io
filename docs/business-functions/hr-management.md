@@ -24,6 +24,11 @@ To understand why, we can apply the **VRIO framework** from our lesson on strate
   * **Inimitable (Hard to Imitate)**: This is the most important test. Competitors can copy your products, your pricing, and your technology. What they cannot easily replicate is your organization's unique culture and the specific, synergistic chemistry of your team, which is built over years of hiring, development, and shared experience.
   * **Organized to Capture Value**: The firm's structure, processes, and compensation systems must be aligned to leverage its talent effectively.
 
+A company's talent strategy is therefore a direct reflection of its business strategy. The "right" people for one company may be the wrong people for another:
+
+  * A firm pursuing a **Cost Leadership** strategy, like Walmart, needs to build a workforce that is incredibly efficient, disciplined, and focused on operational excellence to minimize Supplier Opportunity Cost (SOC).
+  * A firm pursuing a **Differentiation** strategy, like Tesla, must attract and retain the most innovative engineers and designers in the world to create unique products that command a high Customer Willingness to Pay (WTP).
+
 <div class="grid cards" markdown>
 
 [![OpenAI 'IO' deal escalates Google rivalry](http://img.youtube.com/vi/cUJVYJhzf7k/0.jpg)](http://www.youtube.com/watch?v=cUJVYJhzf7k)
@@ -38,11 +43,6 @@ Google snatches Windsurf CEO after OpenAI deal dissolves
 ///
 
 </div>
-
-A company's talent strategy is therefore a direct reflection of its business strategy. The "right" people for one company may be the wrong people for another:
-
-  * A firm pursuing a **Cost Leadership** strategy, like Walmart, needs to build a workforce that is incredibly efficient, disciplined, and focused on operational excellence to minimize Supplier Opportunity Cost (SOC).
-  * A firm pursuing a **Differentiation** strategy, like Tesla, must attract and retain the most innovative engineers and designers in the world to create unique products that command a high Customer Willingness to Pay (WTP).
 
 !!! info "Case Spotlight: AI Acquihires"
 
